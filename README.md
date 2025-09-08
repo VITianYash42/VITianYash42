@@ -1,15 +1,21 @@
+<!--
+Hi Yash! This is your personalized README file.
+I've already replaced your username "VITianYash42" in all the necessary spots.
+Just update the bracketed info like [Your University Name] and your social media links.
+-->
+
 <!-- PROFILE HEADER -->
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://placehold.co/1200x300/0D1117/FFFFFF%3Ftext%3DHello%252C%2520World!%26font%3Dinter" alt="Hello World Banner"/>
 </div>
-<h1 align="center">Hi there, I'm Yash Singhal 👋</h1>
+<h1 align="center">Hi there, I'm Yash 👋</h1>
 <h3 align="center">A passionate student developer exploring the world of code.</h3>
 
-👨‍💻 About Me
+👨‍💻 About Me :
 I'm a Computer Science student on a mission to build cool things and solve problems. I got into coding because I love the challenge of turning an idea into something real. Right now, I'm focused on strengthening my foundational skills and diving into web development.
 
-🎓 Currently studying Computer Science at Vellore Institute of Technology, Bhopal.
+🎓 Currently studying Computer Science in 2nd year at Vellore Institute of Technology, Bhopal.
 
 🌱 I’m currently learning everything I can about Data Structures & Algorithms and Web Development.
 
@@ -55,17 +61,15 @@ Here are some of the technologies I've started working with:
 
 📊 My GitHub Stats & Activity
 <!--
-IMPORTANT: Replace 'YOUR-USERNAME' with your GitHub username in the links below.
-You can also change the theme. Some popular themes are:
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+NOTE: For the snake animation to appear, you may need to set up a GitHub Action.
+It's an optional step, but very cool! You can find instructions here:
+https://github.com/Platane/snk
 -->
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DVITianYash42%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DVITianYash42%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DVITianYash42%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="VITianYash42's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DVITianYash42%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="VITianYash42's Top Languages" />
 </div>
-
-<!-- This is a fun, dynamic snake animation that shows your contribution graph! -->
 
 <div align="center">
 <img src="https://www.google.com/search?q=https://github.com/VITianYash42/VITianYash42/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width:100%;">
@@ -74,15 +78,15 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 🤝 Let's Connect!
 I'm always open to connecting with other students, developers, and mentors.
 
-<!-- Add your actual social media links here -->
+<!-- Add your actual social media links here by replacing the placeholders -->
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/yashsinghal979" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
-<a href="https://www.google.com/search?q=https://codeforces.com/profile/YashSinghal42" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Codeforces" height="30" width="40" /></a>
+<!-- <a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a> -->
 </p>
 
 <!-- Visitor Counter -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DYOUR-USERNAME%26label%3DProfile%2520Visitors%26color%3Dblueviolet%26style%3Dflat" alt="Profile Visitor Counter" />
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DVITianYash42%26label%3DProfile%2520Visitors%26color%3Dblueviolet%26style%3Dflat" alt="Profile Visitor Counter for VITianYash42" />
 </p>
