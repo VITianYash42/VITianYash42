@@ -72,7 +72,7 @@ I'm always open to connecting with other students, developers, and mentors.
 
 <p align="center">
   <a href="https://linkedin.com/in/yashsinghal979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
-  <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/YashSinghal42)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Your Codeforces" height="30" width="40" /></a>
 </p>
 
 ---
