@@ -1,9 +1,3 @@
-<!--
-Hi Yash! This is your personalized README file.
-I've already replaced your username "VITianYash42" in all the necessary spots.
-Just update the bracketed info like [Your University Name] and your social media links.
--->
-
 <!-- PROFILE HEADER -->
 
 <div align="center">
@@ -12,20 +6,20 @@ Just update the bracketed info like [Your University Name] and your social media
 <h1 align="center">Hi there, I'm Yash 👋</h1>
 <h3 align="center">A passionate student developer exploring the world of code.</h3>
 
-👨‍💻 About Me :
-I'm a Computer Science student on a mission to build cool things and solve problems. I got into coding because I love the challenge of turning an idea into something real. Right now, I'm focused on strengthening my foundational skills and diving into web development.
+👨‍💻 About Me
+I'm a second-year Computer Science student on a mission to build cool things and solve problems. I got into coding because I love the challenge of turning an idea into something real. Right now, I'm focused on strengthening my foundational skills and diving into web development.
 
-🎓 Currently studying Computer Science in 2nd year at Vellore Institute of Technology, Bhopal.
+🎓 Currently studying Computer Science at Vellore Institute Of Technology, Bhopal.
 
 🌱 I’m currently learning everything I can about Data Structures & Algorithms and Web Development.
 
 🤔 I’m looking for help with understanding complex algorithms and best practices for building scalable applications.
 
-💬 Ask me about C++, Python, HTML, CSS or anything related to my learning journey!
+💬 Ask me about C++, Python, or anything related to my learning journey!
 
-📫 How to reach me: yashjee979@gmail.com
+📫 How to reach me: [your.email@example.com]
 
-😄 Pronouns: He/Him
+😄 Pronouns: [He/Him, She/Her, etc.]
 
 🚀 What I'm Currently Learning
 I believe in building a strong foundation. Here's what's on my learning radar right now:
@@ -82,7 +76,7 @@ I'm always open to connecting with other students, developers, and mentors.
 
 <p align="center">
 <a href="https://www.google.com/search?q=https://linkedin.com/in/yashsinghal979" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
-<!-- <a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a> -->
+<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
 </p>
 
 <!-- Visitor Counter -->
