@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://placehold.co/1200x300/0D1117/FFFFFF?text=Hello%2C%20World!&font=inter" alt="Hello World Banner"/>
-</div>
+<!--   <img src="https://placehold.co/1200x300/0D1117/FFFFFF?text=Hello%2C%20World!&font=inter" alt="Hello World Banner"/> -->
+  </div>
 <h1 align="center">Hi there, I'm Yash 👋</h1>
 <h3 align="center">A passionate student developer exploring the world of code.</h3>
 
@@ -8,15 +8,14 @@
 
 ### 👨‍💻 About Me
 
-I'm a second-year Computer Science student on a mission to build cool things and solve problems. I got into coding because I love the challenge of turning an idea into something real. Right now, I'm focused on strengthening my foundational skills and diving into web development.
+I'm a Computer Science student on a mission to build cool things and solve problems. I got into coding because I love the challenge of turning an idea into something real. Right now, I'm focused on strengthening my foundational skills and diving into web development.
 
-- 🎓 Currently studying **Computer Science** at **[Your University Name]**.
+- 🎓 Currently studying **Computer Science** at **Vellore Institute of Tcchnology, Bhopal**.
 - 🌱 I’m currently learning everything I can about **Data Structures & Algorithms** and **Web Development**.
 - 🤔 I’m looking for help with understanding complex algorithms and best practices for building scalable applications.
-- 💬 Ask me about **C++**, **Python**, or anything related to my learning journey!
-- 📫 How to reach me: **[your.email@example.com]**
-- 😄 Pronouns: **[He/Him, She/Her, etc.]**
-
+- 💬 Ask me about **C++**, **Python**, **HTML**, **CSS** or anything related to my learning journey!
+- 📫 How to reach me: **yashjee979@gmail.com**
+- 😄 Pronouns: **He/Him**
 ---
 
 ### 🚀 What I'm Currently Learning
@@ -72,7 +71,7 @@ Here are some of the technologies I've started working with:
 I'm always open to connecting with other students, developers, and mentors.
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/yashsinghal979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn" height="30" width="40" /></a>
   <a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Your Twitter" height="30" width="40" /></a>
 </p>
 
