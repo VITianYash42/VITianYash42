@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Computer Science student on a mission to build cool things and solve problems. I got into coding because I love the challenge of turning an idea into something real. Right now, I'm focused on strengthening my foundational skills and diving into web development.
+I'm a Second Year Computer Science student on a mission to build cool things and solve problems. I got into coding because I love the challenge of turning an idea into something real. Right now, I'm focused on strengthening my foundational skills and diving into web development.
 
 - 🎓 Currently studying **Computer Science** at **Vellore Institute of Tcchnology, Bhopal**.
 - 🌱 I’m currently learning everything I can about **Data Structures & Algorithms** and **Web Development**.
