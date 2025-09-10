@@ -56,7 +56,7 @@ Here are some of the technologies I've started working with:
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="VITianYash42's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&cache_seconds=7200&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="VITianYash42's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITianYash42&layout=compact&theme=tokyonight&hide_border=true" alt="VITianYash42's Top Languages" />
 </div>
 
