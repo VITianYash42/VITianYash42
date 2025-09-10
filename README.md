@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y1MDQxMGU4ZDI1Y2QxYjI3MDI0N2Y4YjNkZjY3ZDA5Y2Y1NjdmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="60"/>
 </div>
 
-<h1 align="center">Hi there, I'm Yash Singhal 👋</h1>
+<h1 align="center">Hi there, I'm Yash 👋</h1>
 <h3 align="center">A passionate student developer exploring the world of code.</h3>
 
 ---
@@ -15,6 +15,17 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 -   🌱 Learning everything I can about **Web Development** and **Data Structures & Algorithms**.
 -   💬 Ask me about **C++**, **Python**, **HTML**, **CSS**, or anything about my learning journey!
 -   📫 Reach me at: **yashjee979@gmail.com**
+
+---
+
+### 🚀 What I'm Currently Learning
+
+I believe in building a strong foundation. Here's what's on my learning radar right now:
+
+-   **Frontend:** Diving deeper into HTML, CSS, and getting comfortable with JavaScript.
+-   **Backend:** Exploring the basics of Node.js and how servers work.
+-   **Core CS:** Mastering Data Structures and Algorithms in C++.
+-   **Tools:** Getting proficient with Git & GitHub for version control.
 
 ---
 
