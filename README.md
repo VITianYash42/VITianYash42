@@ -61,3 +61,9 @@ Here are a few projects I've built to apply my skills.
   <a href="https://codeforces.com/profile/YashSinghal42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Yash Singhal's Codeforces" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/yeah_shhh_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yash Singhal's Instagram" height="30" width="40" /></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VITianYash42&label=Profile%20Visitors&color=blueviolet&style=flat" alt="Profile Visitor Counter for VITianYash42" />
+</p>
