@@ -80,7 +80,3 @@ Here are a few projects I've built to apply my skills.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VITianYash42&theme=tokyonight" alt="VITianYash42's GitHub Trophies" />
-</p>
