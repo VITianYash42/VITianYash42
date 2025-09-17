@@ -82,5 +82,5 @@ Here are a few projects I've built to apply my skills.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VITianYash42&label=Profile%20Visitors&color=blueviolet&style=flat" alt="Profile Visitor Counter for VITianYash42" />
+  <img src="https://github-profile-trophy.vercel.app/?username=VITianYash42&theme=tokyonight" alt="VITianYash42's GitHub Trophies" />
 </p>
