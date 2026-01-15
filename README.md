@@ -63,7 +63,7 @@ Here are a few projects I've built to apply my skills.
   <img src="https://github.com/VITianYash42/VITianYash42/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width:100%;">
 </div> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight&hide_border=true" alt="Yash's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VITianYash42&theme=tokyonight&hide_border=true" alt="Yash's GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITianYash42&layout=compact&theme=tokyonight&hide_border=true" alt="Yash's Top Languages" />
 </div>
