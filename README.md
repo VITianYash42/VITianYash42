@@ -54,13 +54,22 @@ Here are a few projects I've built to apply my skills.
 
 ### 📊 My GitHub Stats & Activity
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="Yash's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITianYash42&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Yash's Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github.com/VITianYash42/VITianYash42/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width:100%;">
+</div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Yash's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITianYash42&layout=compact&theme=tokyonight&hide_border=true" alt="Yash's Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/output/github-contribution-grid-snake.svg" alt="snake" style="max-width:100%;">
 </div>
 
 ---
