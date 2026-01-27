@@ -3,7 +3,9 @@
 </div>
 
 <h1 align="center">Hi there, I'm Yash 👋</h1>
-<h3 align="center">A passionate student developer exploring the world of code.</h3>
+# Hi there, I'm Yash! 👋
+
+### 🚀 Full-Stack Developer | Open Source Enthusiast | ACWOC '26 Top Contributor
 
 ---
 
@@ -11,21 +13,29 @@
 
 I'm a Second Year Computer Science student on a mission to build cool things and solve problems. I'm driven by the challenge of turning complex ideas into functional, real-world applications. Right now, I'm focused on strengthening my foundational skills in Data Structures & Algorithms and diving deep into web development.
 
--   🎓 Studying **Computer Science** at **Vellore Institute of Technology, Bhopal**.
--   🌱 Learning everything I can about **Web Development** and **Data Structures & Algorithms**.
--   💬 Ask me about **C++**, **Python**, **HTML**, **CSS**, or anything about my learning journey!
--   📫 Reach me at: **yashjee979@gmail.com**
+* 🎓 Studying **Computer Science** at **Vellore Institute of Technology, Bhopal**.
+* 🌱 Learning everything I can about **Web Development** and **Data Structures & Algorithms**.
+* 💡 Deep-diving into **DevOps (Docker)**, **System Architecture**, and **VS Code Extension Development**.
+* 📫 **Reach me at:** yashjee979@gmail.com
 
 ---
 
-### 🚀 What I'm Currently Learning
+### 🏆 Achievements & Highlights
 
-I believe in building a strong foundation. Here's what's on my learning radar right now:
+* **Rank #4 Global Contributor** in **ACWOC '26 Open Source Challenge**.
+* **Polar Contributor Badge** recipient for high-impact pull requests.
+* **Specialist in:** Dockerizing legacy apps, resolving complex Git conflicts, and building developer tools.
 
--   **Frontend:** Diving deeper into HTML, CSS, and getting comfortable with JavaScript.
--   **Backend:** Exploring the basics of Node.js and how servers work.
--   **Core CS:** Mastering Data Structures and Algorithms in C++.
--   **Tools:** Getting proficient with Git & GitHub for version control.
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+| **Category** | **Technologies** |
+|:--- |:--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+| **Tools & AI** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) |
 
 ---
 
@@ -33,21 +43,43 @@ I believe in building a strong foundation. Here's what's on my learning radar ri
 
 Here are a few projects I've built to apply my skills.
 
-| Project                                                                            | Description                                                                  | Technologies Used                | Live Demo                                                              |
-| ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- | -------------------------------- | ---------------------------------------------------------------------- |
-| **📺 YouTube Clone** | A responsive, visual clone of the YouTube homepage.                          | `HTML`, `CSS`, `Flexbox`, `Grid` | [**View Live**](https://youtube-clone-yash-singhal.netlify.app)        |
-| **📝 Survey Form** | A clean, mobile-first survey form with a focus on responsive design.         | `HTML`, `CSS`                    | [**View Live**](https://survey-form-tried.netlify.app/) |
+| Project | Description | Technologies Used | Live Demo |
+|:--- |:--- |:--- |:--- |
+| **📺 YouTube Clone** | A responsive, visual clone of the YouTube homepage. | `HTML` `CSS` `Flexbox` `Grid` | [View Live](#) |
+| **📝 Survey Form** | A clean, mobile-first survey form with a focus on responsive design. | `HTML` `CSS` | [View Live](#) |
 
 ---
 
-### 🛠️ My Tech Stack
+### 📂 Featured Projects & Contributions
+
+#### 1. **Layr (VS Code Extension)** 🧩
+*A developer tool for AI-powered project planning.*
+* **My Role:** Built the **Community Templates Library** & **Template Manager**.
+* **Tech:** TypeScript, VS Code Webview API, FileSystem Architecture.
+* **Impact:** Enabled users to save, browse, and inject project scaffolds (React, Node, etc.) directly within VS Code.
+
+#### 2. **MediAssist AI Scribe** 🏥
+*AI-powered medical transcription and analysis tool.*
+* **My Role:** Led the **Dockerization** and Production Deployment.
+* **Tech:** Python, Flask, Docker (Multi-stage builds), Gunicorn, Ollama (Llama 3).
+* **Impact:** Reduced deployment time and ensured environment consistency across dev/prod.
+
+#### 3. **EcoBridge** 🌉
+*Real-time bridging application.*
+* **My Role:** Engineered the **Core Socket Architecture**.
+* **Tech:** Node.js, Socket.io, JavaScript.
+* **Impact:** Established stable bidirectional communication between Desktop Server and Mobile Client.
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VITianYash42&theme=tokyonight&hide_border=true" alt="Yash's Streak" width="48%" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITianYash42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 ---
