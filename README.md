@@ -65,8 +65,11 @@ Here are a few projects I've built to apply my skills.
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=VITianYash42&theme=tokyonight&row=3&column=3" alt="VITianYash42's GitHub Trophies" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight" alt="Yash's Stats" />
 </p>
 
 ---
