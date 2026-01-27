@@ -21,7 +21,7 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 
 ### 🏆 Achievements & Highlights
 
-* **Rank #4 Global Contributor** in **ACWOC '26 Open Source Challenge**.
+* **Rank #4 Contributor** in **ACWOC '26 Open Source Challenge**. (Ongoing)
 * **Polar Contributor Badge** recipient for high-impact pull requests.
 * **Specialist in:** Dockerizing legacy apps, resolving complex Git conflicts, and building developer tools.
 
