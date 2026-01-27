@@ -3,7 +3,6 @@
 </div>
 
 <h1 align="center">Hi there, I'm Yash 👋</h1>
-# Hi there, I'm Yash! 👋
 
 ### 🚀 Full-Stack Developer | Open Source Enthusiast | ACWOC '26 Top Contributor
 
@@ -82,12 +81,6 @@ Here are a few projects I've built to apply my skills.
 <div align="center">
   <img src="https://github.com/VITianYash42/VITianYash42/blob/output/github-contribution-grid-snake.svg" alt="snake" style="max-width:100%;">
 </div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight" alt="Yash's Stats" />
-</p>
 
 ---
 
