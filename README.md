@@ -72,18 +72,6 @@ Here are a few projects I've built to apply my skills.
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Yash's Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VITianYash42&theme=tokyonight&hide_border=true" alt="Yash's Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITianYash42&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
-
----
-
 ### 📊 My GitHub Stats & Activity
 
 <div align="center">
