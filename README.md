@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Yash 👋</h1>
 
-<h1 align = "center">🚀 Full-Stack Developer | Open Source Enthusiast | ACWOC '26 Top Contributor</h1>
+<h2 align = "center">🚀 Full-Stack Developer | Open Source Enthusiast | ACWOC '26 Top Contributor</h2>
 
 ---
 
