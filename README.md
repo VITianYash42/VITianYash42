@@ -72,9 +72,10 @@ Here are a few projects I've built to apply my skills.
 ---
 
 ### 🏆 My Trophy Case
+### 👀 Profile Views
 <p align="center">
-  <img src="https://github-profile-achievements.vercel.app/?username=VITianYash42&theme=tokyonight&compact=true" alt="Yash's Achievements" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=VITianYash42&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+</p
 
 ---
 
