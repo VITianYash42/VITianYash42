@@ -73,9 +73,7 @@ Here are a few projects I've built to apply my skills.
 
 ### 🏆 My Trophy Case
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VITianYash42&theme=tokyonight&margin-w=4&row=1&column=7&no-bg=true&random=1" alt="Yash's Trophies" />
-  </a>
+  <img src="https://github-profile-achievements.vercel.app/?username=VITianYash42&theme=tokyonight&compact=true" alt="Yash's Achievements" />
 </p>
 
 ---
