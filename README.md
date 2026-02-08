@@ -72,22 +72,7 @@ Here are a few projects I've built to apply my skills.
 ---
 
 <div align="center">
-  <h1>Hi there, I'm Yash Singhal! <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="100%" />
-  
-  <br/><br/>
-
-  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language" height="170" />
-  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" height="170" />
-
-  <br/><br/>
-  
-  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/3-stats.svg" alt="Stats" height="170" />
-  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" height="170" />
-
+  <img src="https://yourinsights.vercel.app/api/insight?username=VITianYash42&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
 <div align="center">
