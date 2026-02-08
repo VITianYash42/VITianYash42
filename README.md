@@ -38,7 +38,7 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 
 ---
 
-### 📂 My Projects
+### 📂 Featured Projects
 
 Here are a few projects I've built to apply my skills.
 
@@ -49,7 +49,7 @@ Here are a few projects I've built to apply my skills.
 
 ---
 
-### 📂 Featured Projects & Contributions
+### 📂 My Top Contributions
 
 #### 1. **Layr (VS Code Extension)** 🧩
 *A developer tool for AI-powered project planning.*
