@@ -71,25 +71,23 @@ Here are a few projects I've built to apply my skills.
 
 ---
 
-### 🏆 My Trophy Case
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=VITianYash42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Yash's Trophies" />
-  </a>
-</p>
-
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VITianYash42&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
-</p
-
----
-
-### 📊 My GitHub Stats & Activity
+<div align="center">
+  <h1>Hi there, I'm Yash Singhal! <img src="https://media.giphy.com/media/hvRJCLFzcuMiM/giphy.gif" width="30px"></h1>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VITianYash42&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="Yash's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VITianYash42&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" alt="Yash's Top Languages" />
+  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/0-profile-details.svg" alt="Profile Details" width="100%" />
+  
+  <br/><br/>
+
+  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/1-repos-per-language.svg" alt="Repos per Language" height="170" />
+  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/2-most-commit-language.svg" alt="Most Commit Language" height="170" />
+
+  <br/><br/>
+  
+  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/3-stats.svg" alt="Stats" height="170" />
+  <img src="https://raw.githubusercontent.com/VITianYash42/VITianYash42/master/profile-summary-card-output/2077/4-productive-time.svg" alt="Productive Time" height="170" />
+
 </div>
 
 <div align="center">
