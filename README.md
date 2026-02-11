@@ -16,7 +16,7 @@
   <img src="./badge-polar.jpg" height="180" alt="Polar Contributor Badge" />
   &nbsp;&nbsp;➡️&nbsp;&nbsp;
   
-  <img src="./badge-champion.jpg" height="220" alt="AcWoC Champion Badge - Rank 2" />
+  <img src="./badge-champion.png" height="220" alt="AcWoC Champion Badge - Rank 2" />
 </div>
 <br/>
 
