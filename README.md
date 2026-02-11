@@ -7,12 +7,16 @@
 <h2 align = "center">🚀 Full-Stack Developer | Open Source Enthusiast | #2 Contributor in ACWOC '26</h2>
 
 <div align="center">
-  <h3>🏆 AcWoC '26 Hall of Fame</h3>
-  <p>Secured <b>Rank #2</b> globally out of hundreds of contributors.</p>
+  <h3>🏆 AcWoC '26 Hall of Fame: Zero to Hero</h3>
+  <p>My journey from <b>Rank 17</b> to <b> Rank #2</b> in the Android Cub - Open Source Challenge.</p>
   
-  <img src="YOUR_LINK_TO_CHAMPION_BADGE.jpg" height="180" alt="AcWoC Champion Badge - Rank 2" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="YOUR_LINK_TO_POLAR_BADGE.jpg" height="180" alt="AcWoC Polar Contributor Badge" />
+  <img src="https://drive.google.com/file/d/1xfDO6mZTeqYDGt2CtdAhDr-2Mj-As2Jp/view?usp=sharing" height="150" alt="Arctic Explorer Badge" />
+  &nbsp;&nbsp;➡️&nbsp;&nbsp;
+  
+  <img src="https://drive.google.com/file/d/1H9kzRGEak7UGiRsRRIRzmeuVp5lDsFZR/view?usp=drive_link" height="180" alt="Polar Contributor Badge" />
+  &nbsp;&nbsp;➡️&nbsp;&nbsp;
+  
+  <img src="https://drive.google.com/file/d/1ujHYLNtzjFwjmBiEQoutmL1B1nEK1VAV/view?usp=drive_link" height="220" alt="AcWoC Champion Badge - Rank 2" />
 </div>
 <br/>
 
