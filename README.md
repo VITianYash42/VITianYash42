@@ -63,11 +63,11 @@ Here are a few projects I've built to apply my skills.
 * **Tech:** Python, Flask, Docker (Multi-stage builds), Gunicorn, Ollama (Llama 3).
 * **Impact:** Reduced deployment time and ensured environment consistency across dev/prod.
 
-#### 3. **EcoBridge** 🌉
-*Real-time bridging application.*
-* **My Role:** Engineered the **Core Socket Architecture**.
-* **Tech:** Node.js, Socket.io, JavaScript.
-* **Impact:** Established stable bidirectional communication between Desktop Server and Mobile Client.
+#### 3. **Project Toolsuite** 🛠️
+*A collection of open-source developer tools and visualizations.*
+* **My Role:** Developed the Offline Regex Tester and the Mandelbrot Set Generator; resolved multiple critical issues.**.
+* **Tech:** JavaScript (ES6+), HTML5 Canvas, CSS3.
+* **Impact:** Added essential developer utilities and high-performance mathematical visualizations to the platform.
 
 ---
 
