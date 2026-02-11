@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>🏆 AcWoC '26 Hall of Fame: Zero to Hero</h3>
-  <p>My journey from <b>Rank 17</b> to <b> Rank #2</b> in the Android Cub - Open Source Challenge.</p>
+  <p>My journey to <b> Rank #2</b> in the Android Cub - Open Source Challenge.</p>
   
   <img src="https://drive.google.com/file/d/1xfDO6mZTeqYDGt2CtdAhDr-2Mj-As2Jp/view?usp=sharing" height="150" alt="Arctic Explorer Badge" />
   &nbsp;&nbsp;➡️&nbsp;&nbsp;
