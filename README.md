@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi there, I'm Yash 👋</h1>
 
-<h2 align = "center">🚀 Full-Stack Developer | Open Source Enthusiast | ACWOC '26 Top Contributor</h2>
+<h2 align = "center">🚀 Full-Stack Developer | Open Source Enthusiast | #2 Contributor in ACWOC '26</h2>
 
 ---
 
@@ -21,9 +21,9 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 
 ### 🏆 Achievements & Highlights
 
-* **Rank #4 Contributor** in **ACWOC '26 Open Source Challenge**. (Ongoing)
-* **Polar Contributor Badge** recipient for high-impact pull requests.
-* **Specialist in:** Dockerizing legacy apps, resolving complex Git conflicts, and building developer tools.
+* **Rank #2 Contributor** in **ACWOC '26 Open Source Challenge**.
+* **AcWoc'26 Champion Badge** recipient for high-impact pull requests.
+* **Lerarning to:** Dockerize legacy apps, resolve complex Git conflicts, and build developer tools.
 
 ---
 
