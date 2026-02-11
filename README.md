@@ -51,21 +51,21 @@ Here are a few projects I've built to apply my skills.
 
 ### 📂 My Top Contributions
 
-#### 1. **Layr (VS Code Extension)** 🧩
+#### 1. **[Layr (VS Code Extension)](https://github.com/manasdutta04/layr)** 🧩
 *A developer tool for AI-powered project planning.*
 * **My Role:** Built the **Community Templates Library** & **Template Manager**.
 * **Tech:** TypeScript, VS Code Webview API, FileSystem Architecture.
 * **Impact:** Enabled users to save, browse, and inject project scaffolds (React, Node, etc.) directly within VS Code.
 
-#### 2. **MediAssist AI Scribe** 🏥
+#### 2. **[MediAssist AI Scribe](https://github.com/garvit-010/MediAssist_AI_Powered_Scribe)** 🏥
 *AI-powered medical transcription and analysis tool.*
 * **My Role:** Led the **Dockerization** and Production Deployment.
 * **Tech:** Python, Flask, Docker (Multi-stage builds), Gunicorn, Ollama (Llama 3).
 * **Impact:** Reduced deployment time and ensured environment consistency across dev/prod.
 
-#### 3. **Project Toolsuite** 🛠️
+#### 3. **[Project Toolsuite](https://github.com/Winter262005/Project-Toolsuite)** 🛠️
 *A collection of open-source developer tools and visualizations.*
-* **My Role:** Developed the Offline Regex Tester and the Mandelbrot Set Generator; resolved multiple critical issues.**.
+* **My Role:** Developed the Offline Regex Tester and the Mandelbrot Set Generator; resolved multiple critical issues.
 * **Tech:** JavaScript (ES6+), HTML5 Canvas, CSS3.
 * **Impact:** Added essential developer utilities and high-performance mathematical visualizations to the platform.
 
