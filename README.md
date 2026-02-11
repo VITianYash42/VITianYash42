@@ -6,6 +6,16 @@
 
 <h2 align = "center">🚀 Full-Stack Developer | Open Source Enthusiast | #2 Contributor in ACWOC '26</h2>
 
+<div align="center">
+  <h3>🏆 AcWoC '26 Hall of Fame</h3>
+  <p>Secured <b>Rank #2</b> globally out of hundreds of contributors.</p>
+  
+  <img src="YOUR_LINK_TO_CHAMPION_BADGE.jpg" height="180" alt="AcWoC Champion Badge - Rank 2" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="YOUR_LINK_TO_POLAR_BADGE.jpg" height="180" alt="AcWoC Polar Contributor Badge" />
+</div>
+<br/>
+
 ---
 
 ### 👨‍💻 About Me
