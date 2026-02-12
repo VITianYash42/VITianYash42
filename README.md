@@ -4,10 +4,13 @@
 
 <h1 align="center">Hi there, I'm Yash 👋</h1>
 
-<h2 align = "center">🚀 Full-Stack Developer | Open Source Enthusiast | #2 Contributor in ACWOC '26</h2>
+<h2 align="center">
+  🚀 Full-Stack Developer | Open Source Enthusiast <br>
+  🏆 #2 Contributor in ACWOC '26 | 🏅 National Finalist @ Health Hackathon '26
+</h2>
 
 <div align="center">
-  <h3>🏆 AcWoC '26 Hall of Fame: Zero to Hero</h3>
+  <h3>🏆 AcWoC '26 Hall of Fame</h3>
   <p>My journey to <b>Rank #2</b> in the Android Club - Open Source Challenge.</p>
   
   <img src="./badge-arctic.jpg" height="150" alt="Arctic Explorer Badge" />
