@@ -6,7 +6,7 @@
 
 <h2 align="center">
   🚀 Full-Stack Developer | Open Source Enthusiast <br>
-  🏆 #2 Contributor in ACWOC '26 | 🏅 National Finalist @ Health Hackathon '26
+  🏆 #2 Contributor in ACWOC'26 | 🥉 3rd Place @Hackathon 101 | 🏅 National Finalist @Health Hackathon '26
 </h2>
 
 <div align="center">
