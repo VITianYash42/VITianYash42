@@ -38,9 +38,11 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 
 ### 🏆 Achievements & Highlights
 
-* **Rank #2 Contributor** in **ACWOC '26 Open Source Challenge**.
-* **AcWoc'26 Champion Badge** recipient for high-impact pull requests.
-* **Lerarning to:** Dockerize legacy apps, resolve complex Git conflicts, and build developer tools.
+* 🥈 **Rank #2 Contributor** in **ACWOC'26** (Android club Winter of Code) Open Source Challenge.
+* 🥉 **3rd Place in Hackathon 101** (CISCO Community) for a marketplace prototype built in 36 hours.
+* 🏅 **National Finalist @ Health Hackathon '26** (VIT Bhopal x JHU). Built "Gati Rehab," an AI physiotherapy monitor.
+* 🎖️ **Champion Badge Recipient** in AcWoC'26 for high-impact pull requests (**97 Total PRs**).
+* 🚀 **Currently Learning:** Dockerizing legacy apps, resolving complex Git conflicts, and building developer tools.
 
 ---
 
