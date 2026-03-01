@@ -31,7 +31,7 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 
 * 🎓 Studying **Computer Science** at **Vellore Institute of Technology, Bhopal**.
 * 🌱 Learning everything I can about **Web Development** and **Data Structures & Algorithms**.
-* 💡 Deep-diving into **DevOps (Docker)**, **System Architecture**, and **VS Code Extension Development**.
+* 💡 Deep-diving into **Full-Stack Architecture**, **Web3 / Blockchain Integration**, and **AI/ML Engineering**.
 * 📫 **Reach me at:** yashjee979@gmail.com
 
 ---
@@ -41,6 +41,7 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 * 🥈 **Rank #2 Contributor** in **ACWOC'26** (Android club Winter of Code) Open Source Challenge.
 * 🥉 **3rd Place in Hackathon 101** (CISCO Community) for a marketplace prototype built in 36 hours.
 * 🏅 **National Finalist @ Health Hackathon '26** (VIT Bhopal x JHU). Built "Gati Rehab," an AI physiotherapy monitor.
+* 🏆 **Top 6 Finalist (out of ~137 teams) @INNOVIT'26 Hackathon.** Architected "Mess-Metric", a Web 2.5 food sustainability ERP.
 * 🎖️ **Champion Badge Recipient** in AcWoC'26 for high-impact pull requests (**97 Total PRs**).
 * 🚀 **Currently Learning:** Dockerizing legacy apps, resolving complex Git conflicts, and building developer tools.
 
@@ -57,14 +58,59 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 
 ---
 
-### 📂 Featured Projects
+## 🚀 Featured Projects
 
-Here are a few projects I've built to apply my skills.
+### 🏥 **[Gati Rehab: Offline-First AI Physiotherapy PWA](https://github.com/VITianYash42/Gati-rehab)**
+> *An AI-powered virtual rehab assistant providing zero-latency skeletal tracking entirely on the browser.*
+> 
+> **Tech Stack:** `React.js` • `Google MediaPipe` • `Firebase` • `TensorFlow Lite` • `PWA`
+> 
+> **Highlight:** National Finalist (**Top 60 out of 600+ teams**) @Health Hackathon '26 (VIT'B x Johns Hopkins).
+> 
+> 🔗 **[GitHub Repository](https://github.com/Sumit-5002/Gati-rehab)** | 🌐 **[Live Demo](https://gati.web.app/)**
 
-| Project | Description | Technologies Used | Live Demo |
-|:--- |:--- |:--- |:--- |
-| **📺 YouTube Clone** | A responsive, visual clone of the YouTube homepage. | `HTML` `CSS` `Flexbox` `Grid` | [View Live](#) |
-| **📝 Survey Form** | A clean, mobile-first survey form with a focus on responsive design. | `HTML` `CSS` | [View Live](#) |
+---
+
+### 🌿 **Mess-Metric: AI & Web3 Food Sustainability Portal**
+> *An enterprise-grade ERP designed to eliminate campus food waste through machine learning and blockchain gamification.*
+> 
+> **Tech Stack:** `React.js` • `Node.js` • `MongoDB` • `Gemini AI` • `Polygon Web3`
+> 
+> **Highlight:** Top 6 in our theme **(Top 38 out of 137 teams) in INNOVIT'26 Hackathon**.
+> 
+> 🔗 **[GitHub Repository](https://github.com/VITianYash42/mess-metric)** | 🌐 **[Live Demo](https://mess-metric.vercel.app)**
+
+---
+
+### ⚗️ **Chemical Equipment Visualizer: Hybrid Data Dashboard**
+
+> *A full-stack data science platform featuring both Web and Desktop clients for analyzing and visualizing chemical engineering datasets.*
+> 
+> **Tech Stack:** `Django REST` • `React.js` • `PyQt5` • `Pandas` • `Chart.js`
+>
+> **Highlight:** Architected a "Thin Client" system where a centralized secure API serves synchronized statistical data to both a React web dashboard and a native PyQt5 desktop application, complete with automated PDF report generation.
+>
+> 🔗 [GitHub Repository](https://github.com/VITianYash42/fossee-internship-2026)
+
+---
+
+### 🛡️ **DeceptiScan: Interactive Phishing Simulation Platform**
+> *A full-stack, gamified security awareness platform designed to test and train users against real-world social engineering attacks.*
+>
+> **Tech Stack:** `Python` • `Flask` • `SQLite` • `Docker` • `Tailwind CSS`
+> 
+> **Highlight:** Survived a grueling 3-phase elimination to place **Top 9 out of 300+ teams** at the Cyber Carnival Hackathon.
+>
+> 🔗 [GitHub Repository](https://github.com/VITianYash42/DeceptiScan) | 🌐 [Live Demo](#)
+
+---
+
+### 📺 YouTube Homepage Clone
+> *A fully responsive, visual clone of the YouTube homepage featuring complex grid layouts and modern UI design.*
+>
+> **Tech Stack:** `HTML5` • `CSS3` • `Flexbox` • `CSS Grid`  
+> 
+> 🌐 **[Live Demo](https://youtube-clone-yash-singhal.netlify.app/)**
 
 ---
 
