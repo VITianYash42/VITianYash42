@@ -105,15 +105,6 @@ I'm a Second Year Computer Science student on a mission to build cool things and
 
 ---
 
-### 📺 YouTube Homepage Clone
-> *A fully responsive, visual clone of the YouTube homepage featuring complex grid layouts and modern UI design.*
->
-> **Tech Stack:** `HTML5` • `CSS3` • `Flexbox` • `CSS Grid`  
-> 
-> 🌐 **[Live Demo](https://youtube-clone-yash-singhal.netlify.app/)**
-
----
-
 ### 📂 My Top Contributions
 
 #### 1. **[Layr (VS Code Extension)](https://github.com/manasdutta04/layr)** 🧩
