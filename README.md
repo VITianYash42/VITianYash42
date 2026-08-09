@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Second Year Computer Science student on a mission to build cool things and solve problems. I'm driven by the challenge of turning complex ideas into functional, real-world applications. Right now, I'm focused on strengthening my foundational skills in Data Structures & Algorithms and diving deep into web development.
+I'm a Third Year Computer Science student on a mission to build cool things and solve problems. I'm driven by the challenge of turning complex ideas into functional, real-world applications. Right now, I'm focused on strengthening my foundational skills in Data Structures & Algorithms and diving deep into AI/ML.
 
 * 🎓 Studying **Computer Science** at **Vellore Institute of Technology, Bhopal**.
 * 🌱 Learning everything I can about **Web Development** and **Data Structures & Algorithms**.
