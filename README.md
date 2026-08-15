@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Y1MDQxMGU4ZDI1Y2QxYjI3MDI0N2Y4YjNkZjY3ZDA5Y2Y1NjdmZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="60"/>
 </div>
 
-<h1 align="center">こんにちは, I'm Yash 👋</h1>
+<h1 align="center">こんにちは, やしゅ です 👋</h1>
 
 <h2 align="center">
   🚀 Full-Stack Developer | Open Source Enthusiast <br>
